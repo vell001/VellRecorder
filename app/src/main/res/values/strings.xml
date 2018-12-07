@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VellRecorder</string>
+    <string name="start">开始</string>
+    <string name="end">结束</string>
+    <string name="hello_world">Hello world</string>
+    <string name="record_screen">录屏</string>
+    <string name="record_camera">录像</string>
+    <string name="all">全部</string>
+</resources>
